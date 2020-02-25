@@ -2737,7 +2737,8 @@
 			background-attachment: fixed;
 			background-image: url("images/overlay.png"), url("../../images/banner.jpg");
 			background-position: center center;
-			background-size: cover;
+			/* background-size: cover; */
+			background-size: contain;
 		}
 
 			.wrapper.style3 header.major {
@@ -3092,7 +3093,8 @@
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
 		background-position: center top;
-		background-size: cover;
+		/* background-size: cover; */
+		background-size: contain;
 		line-height: 1.75;
 		text-align: center;
 	}
