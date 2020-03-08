@@ -3299,3 +3299,8 @@
 }
 
 
+.cd-timeline__img {
+	border-radius: unset;
+	box-shadow: unset;
+	background-color: unset;
+}
